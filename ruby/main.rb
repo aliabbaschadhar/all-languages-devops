@@ -1,1 +1,1 @@
-puts "Hello, World!"
+puts ENV["GREETING"] || "Hello, World!"

@@ -13,11 +13,15 @@ defmodule Elixr.MixProject do
 
   def application do
     [
-      extra_applications: [:logger]
+      extra_applications: [:logger],
+      mod: {Elixr.Application, []}
     ]
   end
 
   defp deps do
-    []
+    [
+      {:plug_cowboy, "~> 2.7"},
+      {:jason, "~> 1.4"}
+    ]
   end
 end

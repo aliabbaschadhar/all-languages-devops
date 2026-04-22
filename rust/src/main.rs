@@ -1,3 +1,6 @@
+use std::env;
+
 fn main() {
-    println!("Hello, world!");
+    let greeting = env::var("GREETING").unwrap_or_else(|_| "Hello, World!".to_string());
+    println!("{}", greeting);
 }

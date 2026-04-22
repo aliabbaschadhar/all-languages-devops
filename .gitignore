@@ -1,0 +1,82 @@
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# C# / .NET
+**/bin/
+**/obj/
+*.user
+*.rsuser
+*.suo
+
+# C++ / CMake
+**/build/
+**/cmake-build-*/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/compile_commands.json
+
+# Elixir
+elixr/_build/
+elixr/deps/
+elixr/.elixir_ls/
+elixr/cover/
+elixr/erl_crash.dump
+
+# Go
+go/bin/
+go/pkg/
+**/*.test
+**/coverage.out
+
+# Java
+java/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# JavaScript / Node
+**/node_modules/
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/.pnpm-store/
+**/.npm/
+
+# Kotlin / Gradle
+kotlin/.gradle/
+kotlin/build/
+
+# PHP / Laravel
+php/vendor/
+php/node_modules/
+php/storage/logs/*.log
+php/bootstrap/cache/*.php
+php/.phpunit.result.cache
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.venv/
+**/venv/
+
+# Ruby
+ruby/.bundle/
+ruby/vendor/bundle/
+**/.ruby-lsp/
+
+# Rust
+rust/target/

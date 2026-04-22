@@ -1,7 +1,5 @@
 defmodule Elixr do
-  def main do
-    IO.puts("Hello, World!")
+  def greeting do
+    System.get_env("GREETING") || "Hello, World!"
   end
 end
-
-Elixr.main()

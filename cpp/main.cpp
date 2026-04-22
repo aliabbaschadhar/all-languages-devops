@@ -1,6 +1,8 @@
+#include <cstdlib>
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    const char* greeting = std::getenv("GREETING");
+    std::cout << (greeting != nullptr ? greeting : "Hello, World!") << std::endl;
     return 0;
 }
