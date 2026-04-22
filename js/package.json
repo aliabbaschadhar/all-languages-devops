@@ -1,0 +1,13 @@
+{
+  "name": "all-languages-devops-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "JavaScript starter project"
+}

@@ -1,0 +1,15 @@
+/home/runner/work/all-languages-devops/all-languages-devops/c#/bin/Debug/net10.0/AllLanguagesDevops
+/home/runner/work/all-languages-devops/all-languages-devops/c#/bin/Debug/net10.0/AllLanguagesDevops.deps.json
+/home/runner/work/all-languages-devops/all-languages-devops/c#/bin/Debug/net10.0/AllLanguagesDevops.runtimeconfig.json
+/home/runner/work/all-languages-devops/all-languages-devops/c#/bin/Debug/net10.0/AllLanguagesDevops.dll
+/home/runner/work/all-languages-devops/all-languages-devops/c#/bin/Debug/net10.0/AllLanguagesDevops.pdb
+/home/runner/work/all-languages-devops/all-languages-devops/c#/obj/Debug/net10.0/AllLanguagesDevops.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/all-languages-devops/all-languages-devops/c#/obj/Debug/net10.0/AllLanguagesDevops.AssemblyInfoInputs.cache
+/home/runner/work/all-languages-devops/all-languages-devops/c#/obj/Debug/net10.0/AllLanguagesDevops.AssemblyInfo.cs
+/home/runner/work/all-languages-devops/all-languages-devops/c#/obj/Debug/net10.0/AllLanguagesDevops.csproj.CoreCompileInputs.cache
+/home/runner/work/all-languages-devops/all-languages-devops/c#/obj/Debug/net10.0/AllLanguagesDevops.sourcelink.json
+/home/runner/work/all-languages-devops/all-languages-devops/c#/obj/Debug/net10.0/AllLanguagesDevops.dll
+/home/runner/work/all-languages-devops/all-languages-devops/c#/obj/Debug/net10.0/refint/AllLanguagesDevops.dll
+/home/runner/work/all-languages-devops/all-languages-devops/c#/obj/Debug/net10.0/AllLanguagesDevops.pdb
+/home/runner/work/all-languages-devops/all-languages-devops/c#/obj/Debug/net10.0/AllLanguagesDevops.genruntimeconfig.cache
+/home/runner/work/all-languages-devops/all-languages-devops/c#/obj/Debug/net10.0/ref/AllLanguagesDevops.dll
